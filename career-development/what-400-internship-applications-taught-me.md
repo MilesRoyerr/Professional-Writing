@@ -1,5 +1,5 @@
 # What 400 Internship Applications Taught Me About Interviewing (That Nobody Really Talks About)
-
+ 
 **Author:** Miles Royer  
 **Originally published:** October 20, 2026  
 **Category:** Career Development  
