@@ -9,7 +9,7 @@
 
 One year ago, I made one of the biggest decisions of my college career.
 
-After spending three years studying Computer Science, I transferred to the University of Wisconsin–Milwaukee and switched my major to Information Science & Technology.
+After spending three years studying Computer Science, I transferred to the University of Wisconsin-Milwaukee and switched my major to Information Science & Technology.
 
 At the time, it felt like I was changing directions.
 
@@ -17,7 +17,7 @@ Looking back, I realize I was really finding my direction.
 
 This past year has taught me more than I expected, not just about technology, but about myself.
 
-## Why I Started in Computer Science
+### Why I Started in Computer Science
 
 I didn't choose Computer Science because I dreamed of becoming a software engineer.
 
@@ -43,7 +43,7 @@ Every conversation expanded my perspective.
 
 And every internship helped me understand the industry a little better.
 
-## Discovering What Energized Me
+### Discovering What Energized Me
 
 As I continued through school, I noticed something.
 
@@ -55,13 +55,13 @@ But when I looked at what energized me outside the classroom, it wasn't always w
 
 I loved building communities.
 
-At the University of Wisconsin–Whitewater, I had the opportunity to help grow our ACM student chapter from a small group into an active community of students who enjoyed learning together.
+At the University of Wisconsin-Whitewater, I had the opportunity to help grow our ACM student chapter from a small group into an active community of students who enjoyed learning together.
 
 I loved organizing events, connecting people, and helping others succeed.
 
 At the time, I didn't recognize that those experiences were teaching me just as much about my future career as any programming assignment.
 
-## The Internship That Changed My Perspective
+### The Internship That Changed My Perspective
 
 One opportunity completely changed how I viewed my future.
 
@@ -87,7 +87,7 @@ That internship didn't just change my résumé.
 
 It changed how I thought about my career.
 
-## A Difficult Interview That Gave Me Clarity
+### A Difficult Interview That Gave Me Clarity
 
 Not long afterward, I interviewed for another software engineering internship at a company I deeply respected.
 
@@ -117,7 +117,7 @@ Admitting that wasn't failure.
 
 It was clarity.
 
-## One Year Later
+### One Year Later
 
 A year after changing majors, I can confidently say it was the right decision for me.
 
@@ -131,7 +131,7 @@ I genuinely enjoy bringing people together, understanding business problems, and
 
 Every project has strengthened my confidence that product management is where I want to continue growing.
 
-## What This Year Taught Me
+### What This Year Taught Me
 
 If I could share a few lessons with students who are still figuring out their path, they would be these:
 
@@ -150,7 +150,7 @@ The goal isn't to chase the title that sounds the most impressive.
 
 It's to discover where your strengths create the greatest value.
 
-## Looking Ahead
+### Looking Ahead
 
 One thing hasn't changed since I started college.
 
