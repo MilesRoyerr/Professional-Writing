@@ -12,6 +12,10 @@ I'm an Information Science & Technology student at the University of Wisconsin�
 - [How I Turned a “Garbage” Resume Into One That Gets Noticed](career-development/how-i-turned-a-garbage-resume-into-one-that-gets-noticed.md) — Lessons from iterating on a resume through internships, feedback, and early-career experience.
 - [What 400 Internship Applications Taught Me About Interviewing (That Nobody Really Talks About)](career-development/what-400-internship-applications-taught-me.md) — Practical lessons about recruiting, interview preparation, evaluating opportunities, and learning from four internship experiences.
 
+### Leadership & Product Management
+
+- [How Leading a Student Organization Changed the Way I Think About Product Management](leadership/how-leading-a-student-organization-changed-the-way-i-think-about-product-management.md) — How rebuilding a student organization taught me lessons about understanding people, collaborating, and creating experiences that deliver value.
+
 ## 🔗 Connect
 
 - [LinkedIn](https://www.linkedin.com/in/milesroyer/)
