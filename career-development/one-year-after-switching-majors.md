@@ -1,5 +1,5 @@
 # One Year After Switching Majors: What I've Learned So Far
-
+ 
 **Author:** Miles Royer  
 **Originally published:** August 3, 2026  
 **Category:** Career Development  
