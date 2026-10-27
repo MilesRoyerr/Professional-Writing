@@ -1,5 +1,5 @@
 # How I Turned a “Garbage” Resume Into One That Gets Noticed
-
+ 
 **Author:** Miles Royer  
 **Originally published:** September 24, 2026  
 **Category:** Career Development  
