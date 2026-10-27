@@ -2,7 +2,7 @@
 
 A collection of articles and reflections on **product management, technology, leadership, and career development**.
 
-I'm an Information Science & Technology student at the University of Wisconsin–Milwaukee, building on a technical background while pursuing Product Management and Technical Program Management. This portfolio preserves selected articles originally published on LinkedIn.
+I'm an Information Science & Technology student at the University of Wisconsin–Milwaukee, building on a technical background while pursuing Product Management. This portfolio preserves selected articles originally published on LinkedIn.
 
 ## 📚 Articles
 
