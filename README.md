@@ -10,6 +10,7 @@ I'm an Information Science & Technology student at the University of Wisconsin�
 
 - [One Year After Switching Majors: What I've Learned So Far](career-development/one-year-after-switching-majors.md) — Reflections on moving from Computer Science toward Information Science & Technology and discovering a stronger fit in product management.
 - [How I Turned a “Garbage” Resume Into One That Gets Noticed](career-development/how-i-turned-a-garbage-resume-into-one-that-gets-noticed.md) — Lessons from iterating on a resume through internships, feedback, and early-career experience.
+- [What 400 Internship Applications Taught Me About Interviewing (That Nobody Really Talks About)](career-development/what-400-internship-applications-taught-me.md) — Practical lessons about recruiting, interview preparation, evaluating opportunities, and learning from four internship experiences.
 
 ## 🔗 Connect
 
