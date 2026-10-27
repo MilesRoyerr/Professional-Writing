@@ -16,6 +16,10 @@ I'm an Information Science & Technology student at the University of Wisconsin�
 
 - [How Leading a Student Organization Changed the Way I Think About Product Management](leadership/how-leading-a-student-organization-changed-the-way-i-think-about-product-management.md) — How rebuilding a student organization taught me lessons about understanding people, collaborating, and creating experiences that deliver value.
 
+### Upcoming Product Management Articles
+
+- [Product Management Article Ideas](product-management/article-ideas.md) — A working space for future articles on documentation, communication, and AI in project management.
+
 ## 🔗 Connect
 
 - [LinkedIn](https://www.linkedin.com/in/milesroyer/)
