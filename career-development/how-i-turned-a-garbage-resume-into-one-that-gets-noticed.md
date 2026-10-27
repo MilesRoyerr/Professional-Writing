@@ -5,7 +5,7 @@
 **Category:** Career Development  
 **Original publication:** [Read the article on LinkedIn](https://www.linkedin.com/pulse/how-i-turned-garbage-resume-one-gets-noticed-miles-royer-ga6jc)
 
----
+--- 
 
 “Miles, your resume is garbage.”
 
