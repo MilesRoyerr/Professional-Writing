@@ -7,7 +7,7 @@
 **Original publication:** [Read the article on LinkedIn](https://www.linkedin.com/pulse/documentation-product-skill-just-paperwork-task-miles-royer-v3t2c)
 
 ---
-
+ 
 When people think about internships, they sometimes imagine someone getting coffee, taking notes, or doing the work nobody else wants to do.
 
 But what if some of that work is more important than people realize?
