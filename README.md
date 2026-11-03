@@ -16,9 +16,10 @@ I'm an Information Science & Technology student at the University of Wisconsin�
 
 - [How Leading a Student Organization Changed the Way I Think About Product Management](leadership/how-leading-a-student-organization-changed-the-way-i-think-about-product-management.md) — How rebuilding a student organization taught me lessons about understanding people, collaborating, and creating experiences that deliver value.
 
-### Upcoming Product Management Articles
+### Product Management
 
-- [Product Management Article Ideas](product-management/article-ideas.md) — A working space for future articles on documentation, communication, and AI in project management.
+- [Documentation Is a Product Skill, Not Just a Paperwork Task](product-management/documentation-is-a-product-skill-not-just-a-paperwork-task.md) — Published November 3, 2026. Explores how user stories, requirements gathering, and clear documentation help product teams understand problems and turn stakeholder needs into actionable work.
+- [Product Management Article Ideas](product-management/article-ideas.md) — A working space for future articles on communication and AI in product management.
 
 ## 🔗 Connect
 
